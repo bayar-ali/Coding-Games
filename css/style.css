@@ -1,0 +1,15 @@
+
+
+.text1 {
+ text-align: center;
+ font-family: 'Press Start 2P', cursive;
+ color: rgb(169, 204, 15);
+}
+
+.full-screen-container {
+    background-image: url(../images/01604a288b863db862d13b121bfa6847.jpg);
+    background-color: rgb(223, 193, 193);
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}

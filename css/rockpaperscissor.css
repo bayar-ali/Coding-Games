@@ -13,7 +13,7 @@ body {
     border: none;
     outline: none;
     cursor: pointer;
-    font-size: 4rem;
+    font-size: 5rem;
     transition: 100ms;
 }
 
@@ -22,7 +22,7 @@ body {
 }
 
 .results {
-    margin-top: 2rem;
+    margin-top: 4rem;
     display: grid;
     justify-content: center;
     grid-template-columns: repeat(2, 1fr);
@@ -32,8 +32,8 @@ body {
 }
 
 .result-score {
-    margin-left: .1rem;
-    font-size: .5rem;
+    margin-left: 1rem;
+    font-size: 3rem;
     color: #333;
 
 
@@ -46,5 +46,5 @@ opacity: .5;
  
 .results-selection.winner {
 opacity: 1;
-font-size: 1.5rem;
+font-size: 3rem;
 }
